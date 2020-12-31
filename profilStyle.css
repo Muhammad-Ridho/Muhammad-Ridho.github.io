@@ -1,0 +1,38 @@
+#header_img{
+	width:100%;
+	position:absolute;
+}
+
+#header_img img{
+	width:100%;
+}
+
+#header_img #label_img{
+	margin:0px;
+	position:absolute;
+	bottom:40%;
+	left:50px;
+	font-family:Brush Script MT;
+	font-size:60;
+	color:black;
+}
+
+#header_img #label1{
+	margin:0px;
+	position:absolute;
+	bottom:35%;
+	left:70px;
+	font-family:andalus;
+	font-size:20;
+	color:black;
+}
+
+#label_img #header_img span{
+	 background-color: #0B4C5F;
+	 opacity:0.8;
+	 font-size:25px;
+	 padding:7px;
+	 box-sizing:border-box;
+	 color:white;
+	 font-weight:bold;
+}
